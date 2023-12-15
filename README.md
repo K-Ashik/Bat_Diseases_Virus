@@ -80,7 +80,8 @@ Detection Method and Sample Type Relationships:
 
 The analysis explores the relationship between detection methods and sample types, revealing patterns in testing methodologies.
 Certain detection methods are more commonly associated with specific sample types.
-Conclusion:
+
+## Conclusion:
 
 Bats play a crucial role as reservoirs for various viruses, with implications for zoonotic transmission.
 The project underscores the importance of ongoing research, monitoring, and effective strategies to mitigate the risk of future pandemics.
